@@ -1,0 +1,9 @@
+Key1 - Stored as a comment in container.zip, visible on a text editor.
+Key2 - Stored as tuenti.docx\docProps\core.xml, document description
+Key3 - Stored within tuenti.docx\tuenti.mp3, as an ID3 Tag
+Key4 - tuenti.mp3's cover is a compressed png image. When uncompressed, this key becomes visible.
+Key5 - ... there's also a base64-encoded pdf file within tuenti.mp3. Its subject contains this key.
+Key6 - The pdf document has a mkv video attached to it, with a subtitle track showing this key.
+Key7 - The mkv video has an attachment including KEY7 and a uuencoded file.
+Key8 - Opening the uuencoded file with a 40-days trial version of WinRAR gives us access to the ramdisk.cpio.gz/ramdisk.cpio file, which contains two files. One of these files has this key as its name.
+Key9 - ramdisk.cpio has a gpg encrypted file, which can be decrypted using a passphrase stored as plain text inside of the file's contents. The decrypted text gives us a lot of kicks and the contents of Key9.

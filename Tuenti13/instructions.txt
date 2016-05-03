@@ -1,0 +1,3 @@
+I had problems running the program in the most popular emulators, and I ended up finding Z80 Simulator IDE. This program allows you to load a program at address 0x0000 and debug the registers and memory. Since we want to load the program at address 0x8100, I left-padded the file with zeros (nop's in Z80's instruction set) and run the program.
+
+After running the program, I wanted to view the contents of the screen memory, so I saved the 64kB memory on the memory.obj file and made a small php script that parsed it and created an image with the screen contents. After executing it, an image was created with the answer.
