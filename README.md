@@ -1,5 +1,6 @@
 # Tuenti Challenge 6
-My solutions for Tuenti Challenge 6: Prepare to Cry edition
+My solutions for Tuenti Challenge 6: Prepare to Cry edition<br>
+<sub>The title comes from arasthel92's tweet: https://twitter.com/arasthel92/status/726713281969266688</sub>
 
 Challenge descriptions are available at https://contest.tuenti.net/Challenges.
 
