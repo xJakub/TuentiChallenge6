@@ -126,9 +126,10 @@ for caseNumber in xrange(1, cases+1):
             denominator *= powDenominator
             steps -= 1
             
-        powProbabilities = matrixMultiply(powProbabilities, powProbabilities, possiblesMask)
-        powDenominator *= powDenominator
         steps /= 2
+        if steps >= 1:
+            powProbabilities = matrixMultiply(powProbabilities, powProbabilities, possiblesMask)
+            powDenominator *= powDenominator
         
         
     # get the most probable chair
