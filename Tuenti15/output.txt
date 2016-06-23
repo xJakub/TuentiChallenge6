@@ -1,0 +1,15 @@
+Case #1: Chair: 18 Last digits: 7/0
+Case #2: Chair: 20 Last digits: 1/2
+Case #3: Chair: 3 Last digits: 1/1
+Case #4: Chair: 2 Last digits: 1/1
+Case #5: Chair: 8 Last digits: 5/2
+Case #6: Chair: 7 Last digits: 1/2
+Case #7: Chair: 8 Last digits: 5/8
+Case #8: Chair: 10 Last digits: 6/5
+Case #9: Chair: 10 Last digits: 8/5
+Case #10: Chair: 15 Last digits: 1/1
+Case #11: Chair: 15 Last digits: 1/1
+Case #12: Chair: 39 Last digits: 7/0
+Case #13: Chair: 39 Last digits: 3/0
+Case #14: Chair: 39 Last digits: 7/0
+Case #15: Chair: 39 Last digits: 3/0
