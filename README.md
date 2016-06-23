@@ -19,7 +19,7 @@ Challenge descriptions are available at https://contest.tuenti.net/Challenges.
 * Challenge 12: 630ms
 * Challenge 13: 100ms to draw the image
 * Challenge 14: 21.2 sec
-* Challenge 15: 5min 36sec
+* Challenge 15: 5min 36sec (~52s with the new solution)
 * Challenge 16: 160ms
 * Challenge 17: 670ms
 * Challenge 18: 900ms
